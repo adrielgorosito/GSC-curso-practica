@@ -3,7 +3,6 @@
 // En este caso, implemento una función find que encuentra el primer número que sea mayor a 2.
 
 const arr = [1, 2, 3, 4, 5];
-const newArr = [];
 
 function customFind(arr, func) {
   for (i = 0; i < arr.length; i++) if (func(arr[i])) return arr[i];
