@@ -6,9 +6,9 @@ const arr = [1, 2, 3, 4, 5];
 const newArr = [];
 
 function customMap(arr, func) {
-  for (i = 0; i < arr.length; i++) {
-    newArr.push(func(arr[i]));
-  }
+  arr.forEach((e) => {
+    newArr.push(func(e));
+  });
   return newArr;
 }
 
