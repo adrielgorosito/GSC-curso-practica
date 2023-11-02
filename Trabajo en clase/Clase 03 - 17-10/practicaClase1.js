@@ -13,5 +13,4 @@ function main() {
 
 main();
 
-// setTimeout en forma de arrow function
-setTimeout(() => console.log("Arrow function"), 2000);
+setTimeout(() => console.log("Arrow function"), 2000); // setTimeout en forma de arrow function

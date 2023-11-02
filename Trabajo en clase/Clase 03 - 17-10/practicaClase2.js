@@ -1,5 +1,5 @@
 // Promesas
-/* Tiene 3 estados: pendiente, resuelta o rechazada
+/*  Tienen 3 estados: pendiente, resuelta o rechazada.
     Métodos de las promesas:
     * .then(función resolve): ejecuta la función 'resolve' cuando la promesa se cumple
     * .catch(función reject): ejecuta la función 'reject' cuando la promesa se rechaza
