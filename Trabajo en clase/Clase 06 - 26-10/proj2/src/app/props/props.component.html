@@ -1,0 +1,7 @@
+<h3>Componente de propiedades:</h3>
+
+<p>El botón está habilitado?: {{ botonHabilitado }}</p>
+<button (click)="habilitarDeshabilitar()">
+  {{ botonHabilitado ? "Habilitar" : "Deshabilitar" }}
+</button>
+<button [disabled]="botonHabilitado">Aceptar</button>

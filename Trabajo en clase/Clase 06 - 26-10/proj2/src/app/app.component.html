@@ -1,0 +1,15 @@
+<h1>Hello world!</h1>
+<br /><br />
+<app-prueba-component></app-prueba-component>
+<br /><br /><br />
+<app-props></app-props>
+<br /><br /><br />
+<p>
+  <u>{{ textoQueCambia }}</u>
+</p>
+<app-hero-detail
+  (mensaje)="actualizar($event)"
+  [hero]="currentHero"
+></app-hero-detail>
+<br /><br /><br />
+<h1>Bye world!</h1>
