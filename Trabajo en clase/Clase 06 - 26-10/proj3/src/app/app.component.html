@@ -1,0 +1,19 @@
+<h1>Inicio</h1>
+<h2>Listado de clientes:</h2>
+
+<div *ngIf="this.clientes.length != 0; else noHay">
+  <ul>
+    <li (click)="seleccionarCliente(client)" *ngFor="let client of clientes">
+      <a href="#">{{ client.id }} - {{ client.nombre }}</a>
+    </li>
+  </ul>
+
+  <app-client-detail
+    (mensajeBorrar)="borrarRegistro($event)"
+    [clienteArg]="clienteSeleccionado"
+  ></app-client-detail>
+</div>
+
+<ng-template #noHay>
+  <p>No hay clientes disponibles</p>
+</ng-template>
