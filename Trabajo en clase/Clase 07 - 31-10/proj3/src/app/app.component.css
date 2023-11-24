@@ -1,0 +1,12 @@
+.special {
+  color: red;
+}
+
+.fuente {
+  background-color: yellow;
+}
+
+.active {
+  background-color: lightcyan;
+  font-weight: 700;
+}

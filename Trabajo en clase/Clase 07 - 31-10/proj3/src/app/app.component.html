@@ -1,0 +1,24 @@
+<div [class.special]="isSpecial">Hello world!</div>
+<br />
+
+<button (click)="changeClass()">Cambiar clase</button>
+<br /><br />
+<div [ngClass]="misClases">Hello world!</div>
+
+<p>
+  My first service: <b>{{ this.sayHello() }}</b>
+</p>
+
+<nav>
+  <a routerLink="/home" routerLinkActive="active">Home</a><br />
+  <a routerLink="/about/1" routerLinkActive="active">About</a><br />
+  <a
+    routerLink="/test"
+    routerLinkActive="active"
+    [routerLinkActiveOptions]="{ exact: true }"
+    >Test</a
+  ><br />
+  <a routerLink="/test/uno" routerLinkActive="active">Test/uno</a><br />
+  <a routerLink="/test/dos" routerLinkActive="active">Test/dos</a><br />
+</nav>
+<router-outlet></router-outlet>
