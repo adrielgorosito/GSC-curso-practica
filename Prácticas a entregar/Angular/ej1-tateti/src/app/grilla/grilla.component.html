@@ -1,0 +1,17 @@
+<div class="container">
+  <h1 class="box">TATETI</h1>
+  <h3 class="box" *ngIf="movsRestantes() > 0">Turno de: {{ turno }}</h3>
+  <h4 class="box" *ngIf="movsRestantes() == 0" style="color: red">
+    Ya no hay más movimientos posibles
+  </h4>
+
+  <div class="grilla">
+    <app-celda
+      *ngFor="let c of arrayCeldas; let i = index"
+      (celdaSeleccionada)="celdaSeleccionada(i)"
+      [celda]="c"
+    ></app-celda>
+  </div>
+
+  <button style="margin-top: 20px" (click)="reiniciar()">Reiniciar</button>
+</div>
