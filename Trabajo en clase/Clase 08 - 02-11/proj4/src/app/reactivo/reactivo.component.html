@@ -1,0 +1,50 @@
+<label
+  >Color: <input type="text" [formControl]="favouriteColorControl"
+/></label>
+
+<h4>Color elegido: {{ favouriteColorControl.value }}</h4>
+
+<br /><br />
+<h3>Uso de control:</h3>
+<label>Nombre: <input type="text" [formControl]="nombre" /></label>
+<label>Apellido: <input type="text" [formControl]="apellido" /></label>
+
+<h4>Nombre: {{ nombre.value }}</h4>
+<p>
+  Válido: ({{ nombre.valid }}). {{ nombre.invalid ? "Nombre requerido" : "" }}
+</p>
+<h4>Apellido: {{ apellido.value }}</h4>
+<p>
+  Válido: ({{ apellido.valid }}).
+  {{ apellido.invalid ? "Apellido requerido" : "" }}
+</p>
+
+<button [disabled]="nombre.invalid || apellido.invalid">Enviar</button>
+
+<br /><br /><br /><br /><br />
+<h3>Uso de formGroup:</h3>
+
+<form [formGroup]="registracionForm">
+  <label>Nombre: <input type="text" formControlName="nombre2" /></label>
+  <br /><br />
+  <label>Apellido: <input type="text" formControlName="apellido2" /></label>
+  <br /><br />
+  <label>Edad: <input type="text" formControlName="edad2" /></label>
+  <br /><br />
+
+  <h4>Nombre: {{ registracionForm.controls.nombre2.value }}</h4>
+  <h4>Apellido: {{ registracionForm.controls.apellido2.value }}</h4>
+  <h4>Edad: {{ registracionForm.controls.edad2.value }}</h4>
+
+  <div formGroupName="address2">
+    <label>Calle: <input type="text" formControlName="calle2" /></label
+    ><br /><br />
+    <label>Altura: <input type="text" formControlName="altura2" /></label
+    ><br /><br />
+  </div>
+
+  <button (click)="enviar()" [disabled]="registracionForm.invalid">
+    Enviar
+  </button>
+  <br /><br />
+</form>
