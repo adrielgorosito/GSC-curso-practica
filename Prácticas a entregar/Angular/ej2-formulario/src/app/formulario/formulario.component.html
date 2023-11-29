@@ -1,0 +1,87 @@
+<div class="center-container">
+  <form class="container" [formGroup]="registroForm">
+    <h1>Formulario</h1>
+
+    <div class="form-group">
+      <label>Nombre: </label>
+      <input type="text" formControlName="nombre" />
+    </div>
+
+    <div class="form-group">
+      <label>Apellido: </label>
+      <input type="text" formControlName="apellido" />
+    </div>
+
+    <div class="form-group">
+      <label>Email: </label><input type="email" formControlName="email" />
+    </div>
+
+    <div class="form-group">
+      <label>Confirmar email: </label>
+      <input
+        type="email"
+        formControlName="emailConfirm"
+        [ngClass]="{
+          errorCSS:
+            registroForm.get('emailConfirm')!.value !==
+              registroForm.get('email')!.value &&
+            registroForm.get('emailConfirm')!.touched
+        }"
+      />
+    </div>
+
+    <p
+      align="center"
+      style="color: red"
+      *ngIf="
+        registroForm.get('emailConfirm')!.value !==
+          registroForm.get('email')!.value &&
+        registroForm.get('emailConfirm')!.touched
+      "
+    >
+      Los emails ingresados no coinciden
+    </p>
+
+    <div class="form-group">
+      <label>Teléfono: </label>
+      <input
+        type="tel"
+        formControlName="telefono"
+        [ngClass]="{
+          errorCSS:
+            !registroForm.get('telefono')!.valid &&
+            registroForm.get('telefono')!.touched
+        }"
+      />
+    </div>
+
+    <div class="form-group">
+      <label>Contraseña: </label>
+      <input type="password" formControlName="password" />
+    </div>
+
+    <div class="checkbox-group">
+      <input type="checkbox" formControlName="notificaciones" />
+      <label>Deseo recibir notificaciones.</label>
+    </div>
+
+    <div class="checkbox-group">
+      <input type="checkbox" formControlName="terminos" />
+      <label>Acepto los términos y condiciones...</label>
+    </div>
+
+    <div align="center">
+      <button
+        (click)="submit()"
+        onclick="alert('Suscripción exitosa. Revise la consola.')"
+        [disabled]="registroForm.invalid || !checkForm()"
+      >
+        Enviar
+      </button>
+    </div>
+
+    <p align="center" style="color: red" *ngIf="this.error">
+      Error: uno o más campos erróneos.
+    </p>
+  </form>
+</div>
