@@ -1,0 +1,19 @@
+<p>todo works!</p>
+
+<h1>Un Todo en específico</h1>
+<div>
+  <p>{{ todo.userId }}</p>
+  <p>{{ todo.id }}</p>
+  <p>{{ todo.title }}</p>
+  <p>{{ todo.completed }}</p>
+</div>
+
+<h1>Lista de Todos</h1>
+<div *ngFor="let t of todos">
+  <p>{{ t.userId }} | {{ t.id }} | {{ t.title }} | {{ t.completed }}</p>
+</div>
+
+<!-- Para la otra forma (se agrega el | async): -->
+<div *ngFor="let t of todos$ | async">
+  <p>{{ t.userId }} | {{ t.id }} | {{ t.title }} | {{ t.completed }}</p>
+</div>
