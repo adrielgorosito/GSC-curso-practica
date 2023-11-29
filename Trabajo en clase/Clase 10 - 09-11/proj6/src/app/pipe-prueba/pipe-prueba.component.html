@@ -1,0 +1,25 @@
+<h2>Ejemplo de DatePipe</h2>
+<p>El cumpleaños del héroe es {{ birthday | date : format() }}</p>
+<button (click)="toggleFormat()">Cambiar Formato</button>
+
+<br />
+<hr />
+<br />
+
+<h2>Ejemplo de i18nPlural</h2>
+<ul>
+  <li *ngFor="let u of units">
+    {{ u | i18nPlural : pluralMap }}
+  </li>
+</ul>
+
+<br />
+<hr />
+<br />
+
+<h2>Ejemplo de pipe personalizado</h2>
+<ul>
+  <li *ngFor="let u of units; let i = index">
+    {{ u | miPipe : 2 | i18nPlural : pluralMap }}
+  </li>
+</ul>
