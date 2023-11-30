@@ -9,7 +9,7 @@ import { Suscripcion } from '../suscripcion';
   styleUrls: ['./formulario.component.css'],
 })
 export class FormularioComponent {
-  constructor(private fb: FormBuilder) {}
+  constructor(private fb: FormBuilder, private ss: SuscripcionService) {}
   error: boolean = false;
 
   registroForm = this.fb.group({
@@ -57,8 +57,7 @@ export class FormularioComponent {
 
   submit() {
     if (this.checkForm()) {
-      this.error = false;
-      let ss = new SuscripcionService(
+      this.ss.showData(
         new Suscripcion(
           this.registroForm.get('nombre')!.value!,
           this.registroForm.get('apellido')!.value!,
@@ -68,7 +67,7 @@ export class FormularioComponent {
           this.registroForm.get('notificaciones')!.value!
         )
       );
-      ss.showData();
+      this.error = false;
     } else {
       this.error = true;
     }

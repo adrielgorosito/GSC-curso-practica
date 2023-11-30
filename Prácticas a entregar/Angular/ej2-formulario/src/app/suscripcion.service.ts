@@ -5,26 +5,22 @@ import { Suscripcion } from './suscripcion';
   providedIn: 'root',
 })
 export class SuscripcionService {
-  constructor(s: Suscripcion) {
-    this.s = s;
-  }
+  constructor() {}
 
-  private s: Suscripcion;
-
-  showData() {
+  showData(s: Suscripcion) {
     console.log(
       'Datos de la suscripción:\nNombre:',
-      this.s.nombre,
+      s.nombre,
       '\nApellido:',
-      this.s.apellido,
+      s.apellido,
       '\nEmail:',
-      this.s.email,
+      s.email,
       '\nContraseña:',
-      this.s.password,
+      s.password,
       '\nTeléfono:',
-      this.s.telefono,
+      s.telefono,
       '\nNotificaciones:',
-      this.s.notificaciones ? 'Si' : 'No'
+      s.notificaciones ? 'Si' : 'No'
     );
   }
 }
