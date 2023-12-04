@@ -1,7 +1,7 @@
 import { Injectable } from '@angular/core';
 import { Suscripcion } from './suscripcion';
 import { HttpClient } from '@angular/common/http';
-import { Observable, catchError } from 'rxjs';
+import { Observable } from 'rxjs';
 
 @Injectable({
   providedIn: 'root',
