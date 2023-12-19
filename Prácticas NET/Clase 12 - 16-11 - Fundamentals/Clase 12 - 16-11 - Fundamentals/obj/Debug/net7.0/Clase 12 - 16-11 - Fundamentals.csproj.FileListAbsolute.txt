@@ -1,0 +1,72 @@
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas .NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas .NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\bin\Debug\net7.0\appsettings.json
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas .NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\bin\Debug\net7.0\Clase 12 - 16-11 - Fundamentals.exe
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas .NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\bin\Debug\net7.0\Clase 12 - 16-11 - Fundamentals.deps.json
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas .NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\bin\Debug\net7.0\Clase 12 - 16-11 - Fundamentals.runtimeconfig.json
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas .NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\bin\Debug\net7.0\Clase 12 - 16-11 - Fundamentals.dll
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas .NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\bin\Debug\net7.0\Clase 12 - 16-11 - Fundamentals.pdb
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas .NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas .NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas .NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas .NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas .NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas .NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\Clase 12 - 16-11 - Fundamentals.csproj.AssemblyReference.cache
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas .NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\Clase 12 - 16-11 - Fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas .NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\Clase 12 - 16-11 - Fundamentals.AssemblyInfoInputs.cache
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas .NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\Clase 12 - 16-11 - Fundamentals.AssemblyInfo.cs
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas .NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\Clase 12 - 16-11 - Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas .NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\Clase 12 - 16-11 - Fundamentals.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas .NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\Clase 12 - 16-11 - Fundamentals.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas .NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\Clase 12 - 16-11 - Fundamentals.sourcelink.json
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas .NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas .NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas .NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\staticwebassets\msbuild.Clase 12 - 16-11 - Fundamentals.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas .NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\staticwebassets\msbuild.build.Clase 12 - 16-11 - Fundamentals.props
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas .NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Clase 12 - 16-11 - Fundamentals.props
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas .NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Clase 12 - 16-11 - Fundamentals.props
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas .NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas .NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\scopedcss\bundle\Clase 12 - 16-11 - Fundamentals.styles.css
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas .NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\Clase 12 - 16-11 - Fundamentals.csproj.CopyComplete
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas .NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\Clase 12 - 16-11 - Fundamentals.dll
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas .NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\refint\Clase 12 - 16-11 - Fundamentals.dll
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas .NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\Clase 12 - 16-11 - Fundamentals.pdb
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas .NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\Clase 12 - 16-11 - Fundamentals.genruntimeconfig.cache
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas .NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\ref\Clase 12 - 16-11 - Fundamentals.dll
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas .NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\bin\Debug\net7.0\appsettings.Production.json
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas .NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\bin\Debug\net7.0\appsettings.QA.json
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\bin\Debug\net7.0\appsettings.json
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\bin\Debug\net7.0\appsettings.Production.json
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\bin\Debug\net7.0\appsettings.QA.json
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\bin\Debug\net7.0\Clase 12 - 16-11 - Fundamentals.exe
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\bin\Debug\net7.0\Clase 12 - 16-11 - Fundamentals.deps.json
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\bin\Debug\net7.0\Clase 12 - 16-11 - Fundamentals.runtimeconfig.json
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\bin\Debug\net7.0\Clase 12 - 16-11 - Fundamentals.dll
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\bin\Debug\net7.0\Clase 12 - 16-11 - Fundamentals.pdb
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\Clase 12 - 16-11 - Fundamentals.csproj.AssemblyReference.cache
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\Clase 12 - 16-11 - Fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\Clase 12 - 16-11 - Fundamentals.AssemblyInfoInputs.cache
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\Clase 12 - 16-11 - Fundamentals.AssemblyInfo.cs
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\Clase 12 - 16-11 - Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\Clase 12 - 16-11 - Fundamentals.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\Clase 12 - 16-11 - Fundamentals.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\Clase 12 - 16-11 - Fundamentals.sourcelink.json
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\staticwebassets\msbuild.Clase 12 - 16-11 - Fundamentals.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\staticwebassets\msbuild.build.Clase 12 - 16-11 - Fundamentals.props
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Clase 12 - 16-11 - Fundamentals.props
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Clase 12 - 16-11 - Fundamentals.props
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\scopedcss\bundle\Clase 12 - 16-11 - Fundamentals.styles.css
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\Clase 12 - 16-11 - Fundamentals.csproj.CopyComplete
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\Clase 12 - 16-11 - Fundamentals.dll
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\refint\Clase 12 - 16-11 - Fundamentals.dll
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\Clase 12 - 16-11 - Fundamentals.pdb
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\Clase 12 - 16-11 - Fundamentals.genruntimeconfig.cache
+C:\Users\adrie\Desktop\GSC-curso-practica\Prácticas NET\Clase 12 - 16-11 - Fundamentals\Clase 12 - 16-11 - Fundamentals\obj\Debug\net7.0\ref\Clase 12 - 16-11 - Fundamentals.dll
