@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcService.Loan";
+
+package GrpcService;
+
+service Loan {
+  rpc ChangeStatus (LoanChangeStatusRequest) returns (LoanResponse);
+}
+
+message LoanChangeStatusRequest {
+  string id = 1;
+}
+
+message LoanResponse {
+  string message = 1;
+}
